@@ -27,11 +27,14 @@
 
 # Wave 2 Presentations
 
+## Introduction to Prompt Engineering
+- [Introduction to Prompt Engineering for GitHub Copilot.pdf](./Introduction-to-Prompt-Engineering-GitHub-Copilot.pdf)
+
 ## GitHub Copilot for ML and DataOps
 - [GitHub Copilot for ML and Data Ops.pdf](./GitHub-Copilot-ML-Data-Ops.pdf)
 
-## Introduction to Prompt Engineering
-- [Introduction to Prompt Engineering for GitHub Copilot.pdf](./Introduction-to-Prompt-Engineering-GitHub-Copilot.pdf)
+## GitHub Copilot for DevOps
+- [GitHub Copilot for ML and Data Ops.pdf](./GitHub-Copilot-DevOps.pdf)
 
 </div>
 </br>
